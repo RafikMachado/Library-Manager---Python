@@ -1,0 +1,29 @@
+{
+  "books": {
+    "English Grammar": {
+      "title": "English Grammar",
+      "author": "fiki",
+      "genre": "education",
+      "quantity": 4,
+      "issued_count": 1
+    }
+  },
+  "users": {
+    "80983830-2392-4598-a610-869fa55d0ee3": {
+      "id": "80983830-2392-4598-a610-869fa55d0ee3",
+      "name": "fiki",
+      "contact": "8999098765",
+      "borrowed": {
+        "English Grammar": "2025-12-19"
+      }
+    }
+  },
+  "transactions": [
+    {
+      "user_id": "80983830-2392-4598-a610-869fa55d0ee3",
+      "book_title": "English Grammar",
+      "action": "issue",
+      "date": "2025-12-05T21:50:24.974611"
+    }
+  ]
+}
