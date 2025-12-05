@@ -129,13 +129,4 @@ Remaining copies: 2
 
 ---
 
-## **Optional Enhancements**
 
-* Due-date tracking
-* Fines for overdue books
-* Export reports to CSV or PDF
-* GUI using Tkinter or PyQt
-
----
-
-If you'd like, I can also **generate the full project code** for C, Haskell, or Python.
